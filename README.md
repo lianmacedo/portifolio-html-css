@@ -1,9 +1,9 @@
 
-Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+## Olá, Bem vindo ao meu projeto de portfólio, feito com conhecimento adquirido nos cursos de HTML e CSS da Alura.
 
 ![image](https://github.com/user-attachments/assets/bdc2379a-658b-47a4-8396-ff30da628eed)
 
-Ferramentas utilizadas:
+## Ferramentas utilizadas:
 
 * HTML
 
@@ -11,7 +11,7 @@ Ferramentas utilizadas:
 
 * Flex-box
 
-Feito por:
+## Feito por:
 
 Lian Macedo
 
