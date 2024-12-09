@@ -1,10 +1,9 @@
-```
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
 ![image](https://github.com/user-attachments/assets/bdc2379a-658b-47a4-8396-ff30da628eed)
 
-## Ferramentas utilizadas:
+Ferramentas utilizadas:
 
 * HTML
 
@@ -12,10 +11,9 @@
 
 * Flex-box
 
-## Feito por:
+Feito por:
 
-### Lian Macedo
+Lian Macedo
 
-### Linkedin: https://www.linkedin.com/in/lian-macedo-39b67993/
+Linkedin: https://www.linkedin.com/in/lian-macedo-39b67993/
 
-```
